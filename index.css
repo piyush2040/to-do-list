@@ -20,3 +20,15 @@ body
     background-color: aqua;
     
 }
+.completed
+{
+    color: gray;
+    text-decoration: line-through;
+}
+.delete
+{
+    height:fit-content;
+    width: fit-content;
+    
+    background-color: rgb(179, 67, 67);
+}
